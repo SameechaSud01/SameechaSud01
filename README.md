@@ -2,8 +2,6 @@
 
 Software Engineer building production software from concept to deployment.
 
-🇬🇧 British Citizen • Based in the United Kingdom
-
 I'm an early-career software engineer with experience building and shipping production applications across backend, mobile and cloud infrastructure. I enjoy taking products from an initial idea through architecture, implementation and deployment, with a strong interest in AI-assisted software engineering.
 
 Previously, I was the sole software engineer at Lumix Labs, where I built and shipped QZVault from concept to production. I'm currently co-founding **Kannada Beku**, where I lead engineering, system architecture, UI/UX and technical strategy.
