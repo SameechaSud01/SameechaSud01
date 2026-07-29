@@ -1,4 +1,4 @@
-# Hi, I'm Sameecha Sudheer 👋
+# Hi, I'm Sameecha Sudheer 
 
 Software Engineer building production software from concept to deployment.
 
@@ -8,7 +8,7 @@ Previously, I was the sole software engineer at Lumix Labs, where I built and sh
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
 ### Kannada Beku
 
@@ -24,7 +24,7 @@ Current focus:
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Co-founder & Founding Software Engineer
 **Kannada Beku**
@@ -63,7 +63,7 @@ Responsible for:
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## Languages
 
@@ -103,7 +103,7 @@ Responsible for:
 
 ---
 
-# 📚 Featured Projects
+# Featured Projects
 
 ## Kannada Beku
 
@@ -150,7 +150,7 @@ AI-powered recipe recommendation platform that generates recipes from available 
 
 ---
 
-# 📖 Publication
+# Publication
 
 **Enhancing Elderly Care: Remote Glucose Monitoring for Health and Independence**
 
@@ -161,7 +161,7 @@ https://ieeexplore.ieee.org/document/10596141
 
 ---
 
-# 💡 Engineering Philosophy
+# Engineering Philosophy
 
 I enjoy building products that solve real problems.
 
@@ -183,18 +183,18 @@ I believe good software is:
 
 ---
 
-# 📈 Current Goals
+# Current Goals
 
-- 🚀 Launch Kannada Beku publicly
-- ⚡ Continue improving Go backend engineering skills
-- ☁️ Deepen knowledge of distributed systems and cloud infrastructure
-- 🤖 Explore the future of AI-assisted software engineering
+- Launch Kannada Beku publicly
+- Continue improving Go backend engineering skills
+- Deepen knowledge of distributed systems and cloud infrastructure
+- Explore the future of AI-assisted software engineering
 
 ---
 
-# 🤝 Connect
+# Connect
 
-📧 Email: sameechasudheer@gmail.com
+Email: sameechasudheer@gmail.com
 
-💼 LinkedIn:
+LinkedIn:
 https://linkedin.com/in/sameecha-sudheer-399024202
