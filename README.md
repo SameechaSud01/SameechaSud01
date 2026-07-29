@@ -142,6 +142,7 @@ Designed and implemented:
 Research project exploring remote glucose monitoring using infrared spectroscopy.
 
 Published at the IEEE International Conference on Advanced Systems and Emergent Technologies (IC_ASET) 2024.
+https://ieeexplore.ieee.org/document/10596141
 
 ---
 
