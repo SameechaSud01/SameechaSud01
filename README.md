@@ -159,6 +159,7 @@ AI-powered recipe recommendation platform that generates recipes from available 
 Published at:
 
 IEEE International Conference on Advanced Systems and Emergent Technologies (IC_ASET) 2024
+https://ieeexplore.ieee.org/document/10596141
 
 ---
 
@@ -199,6 +200,3 @@ I believe good software is:
 
 💼 LinkedIn:
 https://linkedin.com/in/sameecha-sudheer-399024202
-
-💻 Portfolio:
-Coming soon
